@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPEchoClient", "UDPEchoClient.csproj", "{D372E245-A219-43BF-A0EE-3E6C94D11739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D372E245-A219-43BF-A0EE-3E6C94D11739}.Debug|x86.ActiveCfg = Debug|x86
+		{D372E245-A219-43BF-A0EE-3E6C94D11739}.Debug|x86.Build.0 = Debug|x86
+		{D372E245-A219-43BF-A0EE-3E6C94D11739}.Release|x86.ActiveCfg = Release|x86
+		{D372E245-A219-43BF-A0EE-3E6C94D11739}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

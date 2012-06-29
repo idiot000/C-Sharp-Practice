@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteUtilitiesClient", "RemoteUtilitiesClient\RemoteUtilitiesClient.csproj", "{622AF659-5538-47B0-897F-055311AF9194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteUtilitiesServer", "RemoteUtilitiesServer\RemoteUtilitiesServer.csproj", "{2C7287C8-5BEA-42F7-9393-9E038AE69779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7287C8-5BEA-42F7-9393-9E038AE69779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7287C8-5BEA-42F7-9393-9E038AE69779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7287C8-5BEA-42F7-9393-9E038AE69779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7287C8-5BEA-42F7-9393-9E038AE69779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622AF659-5538-47B0-897F-055311AF9194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622AF659-5538-47B0-897F-055311AF9194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622AF659-5538-47B0-897F-055311AF9194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622AF659-5538-47B0-897F-055311AF9194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

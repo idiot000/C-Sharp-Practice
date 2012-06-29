@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HookingSample", "HookingSample\HookingSample.csproj", "{CBD5DA88-53E0-42EE-96AC-3114FBB891C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD5DA88-53E0-42EE-96AC-3114FBB891C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD5DA88-53E0-42EE-96AC-3114FBB891C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD5DA88-53E0-42EE-96AC-3114FBB891C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD5DA88-53E0-42EE-96AC-3114FBB891C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
